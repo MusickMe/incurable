@@ -1,2 +1,1 @@
-# incurable
-some incurable diseases
+# Some incurable diseases
